@@ -1,0 +1,10 @@
+com/crud/rest/controller/MainRESTController.class
+com/crud/rest/util/PersonRowMapper.class
+com/crud/rest/config/WebMvcConfig.class
+com/crud/rest/response/BaseResponse.class
+com/crud/rest/config/SpringWebAppInitializer.class
+com/crud/rest/util/QueryExecutor.class
+com/crud/rest/dao/PersonDAO.class
+com/crud/rest/model/Person.class
+com/crud/rest/util/PersonResultSetExtractor.class
+com/crud/rest/config/ApplicationContextConfig.class

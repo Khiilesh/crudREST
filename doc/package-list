@@ -1,0 +1,6 @@
+com.crud.rest.config
+com.crud.rest.controller
+com.crud.rest.dao
+com.crud.rest.model
+com.crud.rest.response
+com.crud.rest.util
